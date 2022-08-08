@@ -117,6 +117,7 @@ main .main-content .stories .story .stories-background {
 }
 
 main .main-content .stories .story .stories-photo {
+	width: 56px;
 	border-radius: 50%;
 	position: absolute;
 	top: 5px;
@@ -177,6 +178,7 @@ main .main-content .posts .post .user .image-user a {
 }
 
 main .main-content .posts .post .user .image-user img {
+	width: 32px;
 	border-radius: 50%;
 }
 
@@ -201,6 +203,7 @@ main .main-content .posts .post .liked {
 }
 
 main .main-content .posts .post .liked img {
+	width: 20px;
 	border-radius: 50%;
 }
 
@@ -297,6 +300,7 @@ main .side-bar .side-bar-content .your-profile {
 }
 
 main .side-bar .side-bar-content .your-profile img {
+	width: 56px;
 	border-radius: 50%;
 }
 
@@ -358,6 +362,7 @@ main .side-bar .side-bar-content .suggestions .suggestion-users .suggestion-user
 }
 
 main .side-bar .side-bar-content .suggestions .suggestion-users .suggestion-user .suggestion-user-profile img {
+	width: 32px;
 	border-radius: 50%;
 }
 

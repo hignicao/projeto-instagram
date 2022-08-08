@@ -68,6 +68,10 @@
   main .main-content .posts .post .photo img {
     width: 100%;
   }
+  
+  main .main-content .posts .post .photo video {
+    width: 100%;
+  }
 
   /* -----------------BOTTOM-BAR----------------- */
 
